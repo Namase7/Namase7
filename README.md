@@ -1,9 +1,8 @@
-👋 ¡Hola! Soy [Nacho Martínez]
+👋 ¡Hola! Soy Nacho Martínez
 
 Graduado en Administración de Empresas y con un Máster en Inteligencia Artificial, he combinado mi formación en gestión con conocimientos técnicos avanzados en IA y desarrollo back-end. Mi perfil se sitúa en la intersección entre el mundo empresarial y la tecnología, con un enfoque orientado a resultados y aplicaciones reales.
 
-🚀 Áreas:
-
+🚀 *Áreas:*
 
 🔧 **Back-End Development**
 
