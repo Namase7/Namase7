@@ -41,8 +41,9 @@ Graduado en **Administración de Empresas** y con un **Máster en Inteligencia A
 
 ### 📫 Contacto
 
-- **LinkedIn:** [https://www.linkedin.com/in/nacho-mrtz7/](https://www.linkedin.com/in/nacho-mrtz7/)  
-- **Gmail:** nachomartnezserrano@gmail.com
+-[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nacho-mrtz7/)  
+-[![Gmail](https://img.shields.io/badge/📧%20Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:nachomartnezserrano@gmail.com)  
+-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-black?style=flat&logo=github)](https://github.com/nacho-mrtz)
 
 ---
 
