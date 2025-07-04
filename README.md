@@ -40,7 +40,7 @@ Graduado en Administración de Empresas y con un Máster en Inteligencia Artific
 -Implementación y despliegue de modelos en la nube (Google Cloud, Vertex AI)
 
 -Contenerización con Docker
-
+/
 
 🎨 **Generative AI**
 
@@ -64,6 +64,8 @@ Graduado en Administración de Empresas y con un Máster en Inteligencia Artific
 LinkedIn: https://www.linkedin.com/in/nacho-mrtz7/
 
 Gmail: nachomartnezserrano@gmail.com
+
+
 
 
 🧩 Buscando siempre nuevas oportunidades para aplicar soluciones de IA en contextos reales y generar impacto a través de la tecnología.
