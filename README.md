@@ -4,23 +4,27 @@ Graduado en Administración de Empresas y con un Máster en Inteligencia Artific
 
 🚀 Áreas:
 
-🔧 Back-End Development
+
+🔧 **Back-End Development**
 
 -Python, SQL, Git, Linux, Docker
 
-📊 Data Engineering
+
+📊 **Data Engineering**
 
 -Procesamiento y análisis de datos con Python
 
 -Uso de librerías para Machine Learning
 
-🤖 Machine Learning
+
+🤖 **Machine Learning**
 
 -Clasificación, Regresión, Clustering
 
 -Reducción de dimensionalidad
 
-🧠 Deep Learning
+
+🧠 **Deep Learning**
 
 -Redes neuronales tradicionales
 
@@ -30,31 +34,37 @@ Graduado en Administración de Empresas y con un Máster en Inteligencia Artific
 
 -Procesamiento del lenguaje natural (NLP)
 
-☁️ MLOps & Cloud
+
+☁️ **MLOps & Cloud**
 
 -Implementación y despliegue de modelos en la nube (Google Cloud, Vertex AI)
 
 -Contenerización con Docker
 
-🎨 Generative AI
+
+🎨 **Generative AI**
 
 -Modelos generativos de texto e imagen
 
-🏭 Applied AI
+
+🏭 **Applied AI**
 
 -Aplicaciones de IA en sanidad, finanzas, retail y media
 
-🎯 Otras áreas
+
+🎯 **Otras áreas**
 
 -Reinforcement Learning
 
 -Responsible AI
 
-📫 Contacto
+
+📫 **Contacto**
 
 LinkedIn: https://www.linkedin.com/in/nacho-mrtz7/
 
 Gmail: nachomartnezserrano@gmail.com
+
 
 🧩 Buscando siempre nuevas oportunidades para aplicar soluciones de IA en contextos reales y generar impacto a través de la tecnología.
 
